@@ -18,6 +18,7 @@ documentation/Functionality of 'Like' - SAMPLE_ID-123.xlsx
 Remember to click gray button "More Pages" on the bottom of screen. Or You can download whole file using downloading icon.
 
 4. You can also read about my very basic and simple Automation ideas for Test Scenarios and Test Cases navigating here:
+folder: documentation, go further to click folder 'read-API-testing', and click on file 'API-test.md'
 documentation/read-API-testing/API-test.md
 
 ```
