@@ -10,7 +10,7 @@
 
 1. You should read instructions in README.md file 
 2. Presenting my test skillset. Navigate to folder: 'documentation' to extract what You want to see and read Test Plan and Manual Tests Scenarios.
-when You are in 'documentation' folder please click  blue linked 'View raw' - then will download excel file to your local machine
+when You are in 'documentation' folder please click file name Functionality of 'Like' - SAMPLE_ID-123.xlsx, and then click  blue linked 'View raw' - then will download excel file to your local machine
 
 documentation/Functionality of 'Like' - SAMPLE_ID-123.xlsx
 
