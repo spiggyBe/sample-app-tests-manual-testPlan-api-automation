@@ -52,7 +52,7 @@ npm install
 
 5. How to run in command line:
 
-a) for DEV env we got domain: https://os-tst.mtc.nl => use terminal command line:
+a) for DEV env we got domain: https://test.SAMPLE-APP.com => use terminal command line:
 
 ```javascript
 DEV=1 npx playwright test --ui
