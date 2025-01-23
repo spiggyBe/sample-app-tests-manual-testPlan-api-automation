@@ -10,6 +10,15 @@
 
 1. You should read instructions in README.md file 
 2. Presenting my test skillset. Navigate to folder: 'documentation' to extract what You want to see and read Test Plan and Manual Tests Scenarios.
+when You are in 'documentation' folder please click  blue linked 'View raw' - then will download excel file to your local machine
+
+documentation/Functionality of 'Like' - SAMPLE_ID-123.xlsx
+
+3. If You want to read Test Plan, navigate to documentation/Test Plan SAMPLE test plan.pdf
+Remember to click gray button "More Pages" on the bottom of screen. Or You can download whole file using downloading icon.
+
+4. You can also read about my very basic and simple Automation ideas for Test Scenarios and Test Cases navigating here:
+documentation/read-API-testing/API-test.md
 
 ```
 
