@@ -1,5 +1,5 @@
 
-## Short intro for VISITORS - thank you for visiting me repository
+## Short intro for VISITORS - thank you for visiting my repository
 
 ### This is just demo presentation and combination of Manual Tests - folder documentation</br>
 
